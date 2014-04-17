@@ -31,3 +31,87 @@
 [submodule "pyethereum"]
 	path = pyethereum
 	url = https://github.com/ethereum/pyethereum
+[submodule "sx"]
+	path = sx
+	url = git@github.com:spesmilo/sx
+[submodule "electrum-server"]
+	path = electrum-server
+	url = git@github.com:spesmilo/electrum-server
+[submodule "obelisk"]
+	path = obelisk
+	url = git@github.com:spesmilo/obelisk
+[submodule "libbitcoin"]
+	path = libbitcoin
+	url = git@github.com:spesmilo/libbitcoin
+[submodule "electrum"]
+	path = electrum
+	url = git@github.com:spesmilo/electrum
+[submodule "electrum-deb"]
+	path = electrum-deb
+	url = git@github.com:spesmilo/electrum-deb
+[submodule "libwallet"]
+	path = libwallet
+	url = git@github.com:spesmilo/libwallet
+[submodule "pynode"]
+	path = pynode
+	url = git@github.com:jgarzik/pynode.git
+[submodule "pybitcointools"]
+	path = pybitcointools
+	url = git@github.com:vbuterin/pybitcointools
+[submodule "node-sx"]
+	path = node-sx
+	url = git@github.com:vbuterin/node-sx
+[submodule "bitcoinjs-lib"]
+	path = bitcoinjs-lib
+	url = git@github.com:vbuterin/bitcoinjs-lib
+[submodule "blockalchemy"]
+	path = blockalchemy
+	url = git@github.com:Bobalot/blockalchemy
+[submodule "BitcoinArmory"]
+	path = BitcoinArmory
+	url = https://github.com/etotheipi/BitcoinArmory
+[submodule "ripple-client"]
+	path = ripple-client
+	url = https://github.com/ripple/ripple-client
+[submodule "ripple-gateway"]
+	path = ripple-gateway
+	url = git@github.com:ripple/ripple-gateway
+[submodule "ripple-rest"]
+	path = ripple-rest
+	url = git@github.com:ripple/ripple-rest
+[submodule "ripple-blobvault"]
+	path = ripple-blobvault
+	url = git@github.com:ripple/ripple-blobvault
+[submodule "rippled"]
+	path = rippled
+	url = git@github.com:ripple/rippled
+[submodule "ripple-download"]
+	path = ripple-download
+	url = git@github.com:ripple/ripple-download
+[submodule "ripple-dev-portal"]
+	path = ripple-dev-portal
+	url = git@github.com:ripple/ripple-dev-portal
+[submodule "ripple-gateway-btc"]
+	path = ripple-gateway-btc
+	url = git@github.com:ripple/ripple-gateway-btc
+[submodule "ripple-data-api"]
+	path = ripple-data-api
+	url = git@github.com:ripple/ripple-data-api
+[submodule "ripple-authd"]
+	path = ripple-authd
+	url = git@github.com:ripple/ripple-authd
+[submodule "protocoin"]
+	path = protocoin
+	url = git@github.com:aburan28/protocoin.git
+[submodule "PyBtcEngine"]
+	path = PyBtcEngine
+	url = https://github.com/etotheipi/PyBtcEngine
+[submodule "btckeysplit"]
+	path = btckeysplit
+	url = https://github.com/vbuterin/btckeysplit
+[submodule "dogecoin"]
+	path = dogecoin
+	url = git@github.com:dogecoin/dogecoin.git
+[submodule "bitcoin-seeder"]
+	path = bitcoin-seeder
+	url = git@github.com:sipa/bitcoin-seeder.git
