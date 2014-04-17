@@ -1,0 +1,33 @@
+[submodule "ultracoin"]
+	path = ultracoin
+	url = https://github.com/ziggy909/ultracoin
+[submodule "bitcoin"]
+	path = bitcoin
+	url = git@github.com:bitcoin/bitcoin.git
+[submodule "libblkmaker"]
+	path = libblkmaker
+	url = https://git.gitorious.org/bitcoin/libblkmaker.git
+[submodule "counterpartyd"]
+	path = counterpartyd
+	url = https://github.com/PhantomPhreak/counterpartyd
+[submodule "python-p2pnode"]
+	path = python-p2pnode
+	url = https://github.com/ethereum/python-p2pnode
+[submodule "eth-go"]
+	path = eth-go
+	url = https://github.com/ethereum/eth-go
+[submodule "cpp-ethereum"]
+	path = cpp-ethereum
+	url = https://github.com/ethereum/cpp-ethereum
+[submodule "compiler"]
+	path = compiler
+	url = https://github.com/ethereum/compiler
+[submodule "serpent"]
+	path = serpent
+	url = https://github.com/ethereum/serpent
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = https://github.com/ethereum/go-ethereum
+[submodule "pyethereum"]
+	path = pyethereum
+	url = https://github.com/ethereum/pyethereum
