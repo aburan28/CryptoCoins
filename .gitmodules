@@ -115,3 +115,45 @@
 [submodule "bitcoin-seeder"]
 	path = bitcoin-seeder
 	url = git@github.com:sipa/bitcoin-seeder.git
+[submodule "vertcoin"]
+	path = vertcoin
+	url = git@github.com:vertcoin/vertcoin
+[submodule "anoncoin"]
+	path = anoncoin
+	url = git@github.com:anoncoin/anoncoin.git
+[submodule "litecoin"]
+	path = litecoin
+	url = git@github.com:litecoin-project/litecoin
+[submodule "securecoin"]
+	path = securecoin
+	url = https://github.com/baritus/securecoin
+[submodule "memorycoin"]
+	path = memorycoin
+	url = https://github.com/memorycoin/memorycoin
+[submodule "datacoin-browser"]
+	path = datacoin-browser
+	url = https://github.com/foo1inge/datacoin-browser
+[submodule "datacoin-hp"]
+	path = datacoin-hp
+	url = https://github.com/foo1inge/datacoin-hp
+[submodule "MaxCoin"]
+	path = MaxCoin
+	url = https://github.com/Max-Coin/MaxCoin
+[submodule "Worldcoin"]
+	path = Worldcoin
+	url = https://github.com/worldcoinproject/Worldcoin
+[submodule "darkcoin"]
+	path = darkcoin
+	url = https://github.com/evan82/darkcoin
+[submodule "altcoin"]
+	path = altcoin
+	url = https://github.com/altcoinproject/altcoin
+[submodule "potcoin"]
+	path = potcoin
+	url = https://github.com/potcoin/potcoin
+[submodule "digibyteproject"]
+	path = digibyteproject
+	url = https://github.com/digibyte/digibyteproject
+[submodule "myriadcoin"]
+	path = myriadcoin
+	url = http://github.com/myriadcoin/myriadcoin
